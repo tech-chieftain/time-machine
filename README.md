@@ -4,7 +4,7 @@
 
 Have you ever wondered if you can communicate with future you? If yes, then rejoice! Because this is a time machine ⌚ that you will use to write messages to the future you.
 
-The messages you write here will be shown on graduation day 🎓. So write things that you want the future you from that day to know. 😍
+The messages you write here will be shown on graduation day 🎓. So write things that you want the future you to know. 😍
 
 ## Instructions
 
