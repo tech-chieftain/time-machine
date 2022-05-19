@@ -19,6 +19,6 @@ The messages you write here will be shown on graduation day 🎓. So write thing
 9. In Github go to `Pull requests` and create a new pull request. Make sure that compare is __your__ branch and base branch is `master`. In the PR's body write the following: `This PR closes #[your issue number]`. Spelling is important and make sure that the issue number is correct. Assign this PR to yourself by clicking on `assign yourself` from the side bar
 10. After you click on create make sure that the `Development` section in the sidebar in your pr has the issue you created in step 1.
 
-
+ 
 ## Conclusion
 Now that you have finished all the instructions above, you can always go and read what everyone else has written.
