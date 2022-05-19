@@ -2,7 +2,9 @@
 
 ## Overview
 
-Have you ever wondered if you can communicate with future you? If yes, then rejoice! Because this is a time machine that you will use to write messages to the future you.
+Have you ever wondered if you can communicate with future you? If yes, then rejoice! Because this is a time machine ⌚ that you will use to write messages to the future you.
+
+The messages you write here will be shown on graduation day 🎓. So write things that you want the future you from that day to know. 😍
 
 ## Instructions
 
@@ -16,3 +18,7 @@ Have you ever wondered if you can communicate with future you? If yes, then rejo
 8. Push the changes to your repo on Github
 9. In Github go to `Pull requests` and create a new pull request. Make sure that compare is __your__ branch and base branch is `master`. In the PR's body write the following: `This PR closes #[your issue number]`. Spelling is important and make sure that the issue number is correct. Assign this PR to yourself by clicking on `assign yourself` from the side bar
 10. After you click on create make sure that the `Development` section in the sidebar in your pr has the issue you created in step 1.
+
+
+## Conclusion
+Now that you have finished all the instructions above, you can always go and read what everyone else has written.
